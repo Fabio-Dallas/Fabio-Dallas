@@ -18,7 +18,7 @@
 <img alig="center" alt="SQL"src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><br/>
 
 
-Desarrollador Full Stack em busca de oportunidades de práticas para potenciar mis habilidades técnicas y aportar una rápida capacidad de aprendizado em ambientes profissionais.
+Desarrollador Full Stack en busca de oportunidades de práticas para potenciar mis habilidades técnicas y aportar una rápida capacidad de aprendizaje en ambientes profesionales.
 
 ## Mis proyectos:
 
