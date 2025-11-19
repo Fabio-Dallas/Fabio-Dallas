@@ -1,12 +1,12 @@
 
-
 ### Hola!  Soy Fabio Anibal 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedin.com/FabioJuniorAnibal)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedin.com/https://www.linkedin.com/in/fabio-junior-anibal-a278ba399/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRMxhXaEGSJmUuuCExYL%2FLQ%3D%3D)
 [![Whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Whatasapp.com/673239164)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Gmail.com/Fabioanibal98@gmail.com)
 
 ![Fabio-Dallas GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-Dallas&show_icons=true&theme=radical)
+
 ## Tecnologías que utilizo en mi vida diaria
 <div style="display: inline_block"><br/>
 <img alig="center" alt="htmal5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
