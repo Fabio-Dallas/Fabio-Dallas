@@ -2,7 +2,6 @@
 ### Hola!  Soy Fabio Anibal 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-junior-anibal-a278ba399/)
-[![Whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Whatasapp.com/673239164)
 
 
 ![Fabio-Dallas GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-Dallas&show_icons=true&theme=radical)
